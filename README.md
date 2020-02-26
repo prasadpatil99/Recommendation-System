@@ -13,7 +13,10 @@ $ pip install pandas
 $ pip install numpy
 $ pip install sklearn
 ```
-
+## Reference
+https://stackoverflow.com/questions/1746501/<br>
+https://github.com/Blackman9t/Machine_Learning/blob/master/building_a_content_based_recommendation_system.ipynb<br>
+https://github.com/codeheroku/Introduction-to-Machine-Learning/tree/master/Collaborative%20Filtering
 
 ## Author
 - Prasad Patil 
