@@ -1,5 +1,5 @@
 ## Recommendation System
-> *Recommendation System filters most relevant data to users according to there past history or rating behavior or data which are in demand.* 
+> *Recommendation System filters most relevant data to users according to there past history and also provide other content from users that have similar preference or even data which are in demand.* 
 
 Recommendation System is of two main types: <br>
 **Content Based Filtering** - *As name suggest items are recommended to users on the basis of content which have similar properties selected by users before, means items are recommended on user profile preferences.*
@@ -14,9 +14,9 @@ $ pip install numpy
 $ pip install sklearn
 ```
 ## Reference
-https://stackoverflow.com/questions/1746501/<br>
-https://github.com/Blackman9t/Machine_Learning/blob/master/building_a_content_based_recommendation_system.ipynb<br>
-https://github.com/codeheroku/Introduction-to-Machine-Learning/tree/master/Collaborative%20Filtering
+https://stackoverflow.com/q/1746501/<br>
+https://tryolabs.com/blog/introduction-to-recommender-systems/<br>
+https://www.analyticsvidhya.com/blog/comprehensive-guide-recommendation-engine-python/
 
 ## Author
 - Prasad Patil 
